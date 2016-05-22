@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\c#\VendingMachine\UnitTestVendingMachine\bin\Debug\UnitTestVendingMachine.dll
+C:\Users\User\Desktop\c#\VendingMachine\UnitTestVendingMachine\bin\Debug\UnitTestVendingMachine.pdb
+C:\Users\User\Desktop\c#\VendingMachine\UnitTestVendingMachine\bin\Debug\Domain.dll
+C:\Users\User\Desktop\c#\VendingMachine\UnitTestVendingMachine\bin\Debug\Moq.dll
+C:\Users\User\Desktop\c#\VendingMachine\UnitTestVendingMachine\bin\Debug\Domain.pdb
+C:\Users\User\Desktop\c#\VendingMachine\UnitTestVendingMachine\bin\Debug\Moq.xml
+C:\Users\User\Desktop\c#\VendingMachine\UnitTestVendingMachine\obj\Debug\UnitTestVendingMachine.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\c#\VendingMachine\UnitTestVendingMachine\obj\Debug\UnitTestVendingMachine.dll
+C:\Users\User\Desktop\c#\VendingMachine\UnitTestVendingMachine\obj\Debug\UnitTestVendingMachine.pdb
